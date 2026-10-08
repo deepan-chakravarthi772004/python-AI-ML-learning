@@ -6,6 +6,6 @@ def login_check(func):
     return wrapper
 @login_check
 def dashboard():
-    print("welcome to dashboard Deepan")
+    print("welcome to dashboard Deepan ishu's hubby")
 
 dashboard()
