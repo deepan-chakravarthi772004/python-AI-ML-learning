@@ -1,0 +1,22 @@
+[
+    {
+        "name": "food",
+        "amount": 80.0
+    },
+    {
+        "name": "bus ",
+        "amount": 20.0
+    },
+    {
+        "name": "game",
+        "amount": 80.0
+    },
+    {
+        "name": "tea",
+        "amount": 50.0
+    },
+    {
+        "name": "other",
+        "amount": 100.0
+    }
+]
